@@ -4,3 +4,7 @@ This is a demo build of a web-application that was used internally at REPLI LLC.
 ## Builds 
 * Production Branch: Monday.com API and React.js 
 * Main Branch: Next.js, Exported CSV, MonogoDB Cluster
+
+## Figma Links
+* Link to design files: 
+* Contributors for design elements:
