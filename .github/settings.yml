@@ -61,7 +61,7 @@ repository:
 labels:
   - name: code-bug
     color: '#006b75' 
-    description: An issue with the system 🐛.
+    description: An issue with the system.
 
   - name: code-cleanup 
     color: '#e99695'
