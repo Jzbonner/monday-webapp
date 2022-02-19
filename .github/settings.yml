@@ -60,7 +60,7 @@ repository:
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: code-bug
-    color: '#d73a4a' 
+    color: '#006b75' 
     description: An issue with the system 🐛.
 
   - name: code-cleanup 
